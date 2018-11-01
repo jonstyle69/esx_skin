@@ -1,0 +1,8 @@
+Locales['tw'] = {
+
+  ['skin_menu'] = '皮膚選單',
+  ['use_rotate_view'] = '用 ~INPUT_VEH_FLY_ROLL_LEFT_ONLY~ 和 ~INPUT_VEH_FLY_ROLL_RIGHT_ONLY~ 改變視角',
+  ['skin'] = '改變皮膚',
+  ['saveskin'] = '將皮膚保存',
+
+}
